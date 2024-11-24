@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(33, 36, 45);
+    color: rgb(209, 199, 199);
+}
+header{
+    text-align: center;
+    font-style: bolder;
+    font-size: 20px;
+}
+section{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(48, 52, 63);
+    color: aliceblue;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+a{
+    color: rgb(209, 199, 199);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+}
+li{
+    display: block;
+    margin-right: 20px;
+}
